@@ -4,8 +4,8 @@
 </h1>
 
 - 👀 I’m interested in anything related to technology... but mainly data science
-- 🌱 I’m currently learning data structures 
-- 💞️ I’m looking to collaborate on projects related to data science
+- 🌱 I’m currently working on full stack projects and am learning data structures and algorithms
+- 💞️ I’m looking to collaborate on projects related to data science and full stack
 - 😄 Pronouns: he/him
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/iamcharan-k/)
